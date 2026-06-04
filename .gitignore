@@ -1,0 +1,8 @@
+node_modules/
+dist/
+vercel-build-check/
+.env
+.env.*
+.vercel/
+.tmp/
+npm-debug.log*
